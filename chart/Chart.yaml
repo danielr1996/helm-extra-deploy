@@ -1,0 +1,5 @@
+apiVersion: v2
+name: helm-extra-deploy
+description: Deploy arbitrary k8s manifests through an helm chart, specified in values.yaml 
+type: application
+version: 1.0.0
